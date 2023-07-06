@@ -2,8 +2,6 @@
 
 This project is a task management platform developed from August 2021 to January 2022. The client-side was built using TypeScript and Angular, while the server-side was crafted using C# with Entity Framework and SQL Server.
 
-![App Screenshot](app-screenshot.png)
-
 ## Features
 
 - **Task Management**: Provides comprehensive task management capabilities, including adding, deleting, editing, and archiving tasks.
